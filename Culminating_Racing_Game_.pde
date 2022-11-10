@@ -1,5 +1,4 @@
 /*
-Computer Science Culminating Project
 Ryan Chisholm
 June 15th 2022
 
